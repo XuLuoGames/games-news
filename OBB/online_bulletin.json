@@ -9,6 +9,17 @@
             "active": "True",
             "link": ""
         },
+        
+        {
+            "bull_type": "screen_link",
+            "img": "https://tehsas.github.io/Online-Bulletin-Example/OBB/example_2.jpg",
+            "img2": "https://tehsas.github.io/Online-Bulletin-Example/OBB/example_2.jpg",
+            "title": "更新公告",
+            "text": "Again将于8月底进行大版本更新！",
+            "active": "True",
+            "link": ""
+        },
+        
         {
             "bull_type": "web_link",
             "img": "https://tehsas.github.io/Online-Bulletin-Example/OBB/example_1.jpg",
@@ -17,6 +28,7 @@
         }
     ]
 }
+
 
 
 

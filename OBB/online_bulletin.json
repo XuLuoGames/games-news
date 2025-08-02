@@ -16,6 +16,7 @@
             "img2": "https://tehsas.github.io/Online-Bulletin-Example/OBB/example_2.jpg",
             "title": "更新公告",
             "text": "Again将于8月底进行大版本更新！",
+            "text": "更新内容如下："
             "active": "True",
             "link": ""
         },
@@ -28,6 +29,7 @@
         }
     ]
 }
+
 
 
 
